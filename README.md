@@ -37,6 +37,8 @@
 
 ## 🔁 Core Workflow
 
+🔁 The standard operating flow is:
+
 ```text
 User ideas / suggestions / context
 -> AI selects relevant skills and references
@@ -80,6 +82,8 @@ Draft C makes it human.
 
 ## 🗂️ Repository Structure
 
+🗂️ The repository is organized as follows:
+
 ```text
 .
 ├─ SKILL.md
@@ -115,6 +119,8 @@ web-novel-writing-guidance-skill/SKILL.md
 ```
 
 ## 💬 Example Prompts
+
+💬 These prompts show the intended Draft A, Draft B, and Draft C workflow:
 
 ```text
 Use this web-novel writing guidance skill. I will give you a premise and previous chapter summary. First create a chapter blueprint and key-information file, then write Draft A.
