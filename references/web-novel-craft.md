@@ -263,6 +263,8 @@ Draft C should not introduce major new plot events unless the user requests it.
 
 For Chinese web-novel prose, clarity comes before style.
 
+When the user reports that prose does not sound like real Chinese speech, or when de-AI polishing creates broken short sentences, read `modern-chinese-speech-calibration.md` before rewriting.
+
 - Do not write cryptic fragments such as a two-character phrase that requires the reader to guess the omitted subject.
 - Do not isolate single words or single characters as paragraphs unless they are clearly a sign, message, document heading, or diegetic text.
 - Do not use classical, chapter-novel, early vernacular, or translated-fiction sentence patterns as the book's default voice.
